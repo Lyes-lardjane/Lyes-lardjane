@@ -2,6 +2,7 @@
 
 🎓 Electronics & Embedded Systems Engineer
 🔧 Test & Validation | Embedded Systems | Industrial Automation | IoT
+
 📍  France
 
 ## About me
