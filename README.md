@@ -2,7 +2,7 @@
 
 🎓 Electronics & Embedded Systems Engineer
 🔧 Test & Validation | Embedded Systems | Industrial Automation | IoT
-📍 Lyon, France
+📍  France
 
 ## About me
 
